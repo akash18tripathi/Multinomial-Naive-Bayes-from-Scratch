@@ -4,6 +4,8 @@
 
 This repository contains a Jupyter notebook implementing the Multinomial Naive Bayes algorithm from scratch for an email classification task of SPAM or HAM. The notebook also includes a comparison of the results obtained with the scikit-learn implementation of Multinomial Naive Bayes.
 
+If you are unable to render the notebook on github, then please use this [Notebook Link](https://nbviewer.org/github/akash18tripathi/Multinomial-Naive-Bayes-from-Scratch/blob/main/Multinomial-Naive-Bayes-from-Scratch.ipynb) .
+
 ## What notebook has to offer?
 
 By following along with the notebook, you will gain a deeper understanding of Multinomial Naive Bayes and its application in Classification tasks.
